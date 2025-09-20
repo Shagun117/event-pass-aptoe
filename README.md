@@ -71,3 +71,7 @@ Our vision is to transform the event industry by creating a trustless, transpare
 ---
 
 *Built with ❤️ on the Aptos Blockchain*
+
+# contract details-
+0x6a498d033e81b936080a2b722430bebdd38a5fc095c719dddccdc7d3ba4f0f14
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f06d1f1a-3cf5-4d3e-a16e-3c5b964696e7" />
